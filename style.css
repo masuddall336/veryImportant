@@ -1,6 +1,9 @@
 body{
     margin-bottom: 50px;
 }
+.offers{
+    width: 50px;
+}
 .border {
     border: 0px solid #dee2e6 !important;
 }
